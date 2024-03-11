@@ -7,7 +7,7 @@ Software developer
 I'm looking for a new job as Front-end developer, and I'm graduated from Techup Bootcamp.
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/paiveryhappy?tab=repositories)
+* 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/paiveryhappy?tab=repositories) 
 * ✉️  You can contact me at [jiranchatwet@outlook.com](mailto:jiranchatwet@outlook.com)
 * 🧠  I'm learning Vue.js, and Typescript
 
