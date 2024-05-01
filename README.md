@@ -1,12 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Phai😊
+### Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My nickname is Phai 🐶
 
-About Me:👽
+
+### About Me:👽
+
 I am a developer graduated in Full-Stack developer Bootcamp from Techup Thailand.
 And seeking for a new position as Front-end or Full-Stack Developer.
 
 Currently learning VueJS Framework and Typescript🍃
 
-How to reach me
+### How to reach me
 * ✉️  You can contact me at [jiranchatwet@outlook.com](mailto:jiranchatwet@outlook.com)
 
 ### Skills
